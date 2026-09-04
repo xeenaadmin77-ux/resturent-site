@@ -1,0 +1,7 @@
+{
+  "name": "Dalchini Champaran Restaurant",
+  "description": "A modern, premium presentation demo website for Dalchini Champaran Restaurant, showcasing authentic Ahuna Handi cuisine, interactive menu filtering, responsive food gallery with lightbox, and customer reservation channels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
